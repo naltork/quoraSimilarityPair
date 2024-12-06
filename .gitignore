@@ -1,0 +1,12 @@
+GoogleNews-vectors-negative300.bin
+.venv/
+lstmenv/
+5_research _papers/
+*.zip
+*.pdf
+*.pptx
+*.bin
+*.pickle
+*.keras
+data/
+part1/train.csv
